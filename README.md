@@ -1,7 +1,7 @@
 Hi 👋 My name is Nalinikanta
 ============================
 
-Full Stack Web Developer and Competirive Coder
+Full Stack Web Developer and Competitive Programmer
 ----------------------------------------------
 
 Passionate Coder interested in applying his knowledge into real life aspects. Interested in Competitive Coding and MERN Web development.
